@@ -1,0 +1,23 @@
+.outer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.paging {
+  display: flex;
+  justify-content: center;
+}
+
+.email {
+  font-size: 13px;
+}
+
+.man {
+  color: red;
+}
+
+/* .card {
+  height: 200px;
+  width: 200px;
+} */
